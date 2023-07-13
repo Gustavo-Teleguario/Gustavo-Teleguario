@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computability and formal language, GoLand**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gustavo-Teleguario](https://github.com/Gustavo-Teleguario) or [https://gitlab.com/users/Gustavo-Teleguario/projects]
+- 👨‍💻 All of my projects are available at [https://github.com/Gustavo-Teleguario](https://github.com/Gustavo-Teleguario) or (https://gitlab.com/users/Gustavo-Teleguario/projects)
 
 - 💬 Ask me about **react, java, Unity, SAP**
 
