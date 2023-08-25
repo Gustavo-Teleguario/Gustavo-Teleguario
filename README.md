@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Maynor Gustavo Teleguario Queche</h1>
 <h3 align="center">A passionate developer from Guatemala 🇬🇹</h3>
 
-- 🔭 I’m currently working on ***research project for the University of Kassel***🇩🇪
+- 🔭 I’m currently working on ***research project for the University of Kassel*** 🇩🇪
 
 - 🌱 I’m currently learning ***Computability and formal language and other technologies***
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me ***Maynor_Teleguario@hotmail.com***
 
-- ⚡ Fun fact ***If life is short, doing what I am passionate about is an obligation.***😃
+- ⚡ Fun fact ***If life is short, doing what I am passionate about is an obligation*** 😃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
