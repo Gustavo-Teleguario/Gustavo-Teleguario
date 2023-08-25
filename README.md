@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **research project for the University of Kassel 🇩🇪**
 
-- 🌱 I’m currently learning **Computability and formal language and other technologies **
+- 🌱 I’m currently learning **Computability and formal language and other technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gustavo-Teleguario](https://github.com/Gustavo-Teleguario) or https://gitlab.com/users/Gustavo-Teleguario
 
