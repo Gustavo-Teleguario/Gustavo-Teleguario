@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gustavo-Teleguario](https://github.com/Gustavo-Teleguario) or https://gitlab.com/users/Gustavo-Teleguario
 
-- 💬 Ask me about ***react, java, Unity, SAP***
+- 💬 Ask me about ***react, java, Unity***
 
 - 📫 How to reach me ***Maynor_Teleguario@hotmail.com***
 
