@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, I'm Maynor Gustavo Teleguario Queche</h1>
 <h3 align="center">A passionate developer from Guatemala 🇬🇹</h3>
 
-- 🔭 I’m currently working on ***research project for the University of Kassel*** 🇩🇪
+- 🔭 I’m currently working on ***IT Management in GASCADE Gastransport GmbH*** 🇩🇪
 
-- 🌱 I’m currently learning ***other technologies***
+- 🌱 I’m currently learning ***other technologies and calculability and complexity ***
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gustavo-Teleguario](https://github.com/Gustavo-Teleguario) or https://gitlab.com/users/Gustavo-Teleguario
 
