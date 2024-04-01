@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ***IT Management in GASCADE Gastransport GmbH*** 🇩🇪
 
-- 🌱 I’m currently learning *** Software Engineering and Web Development ***
+- 🌱 I’m currently learning ***Software Engineering and Web Development***
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gustavo-Teleguario](https://github.com/Gustavo-Teleguario) or https://gitlab.com/users/Gustavo-Teleguario
 
