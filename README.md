@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ***To achieve new Challenges and ready for a new Job opportunity*** 🇩🇪
 
-- 🌱 I’m currently learning ***Software Engineering and Web Development***
+- 🌱 I’m currently learning ***Software Developer and Web Development***
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gustavo-Teleguario](https://github.com/Gustavo-Teleguario) or https://gitlab.com/users/Gustavo-Teleguario
 
