@@ -3,15 +3,12 @@
 
 - 🔭 I’m currently working on ***To achieve new Challenges and ready for a new Job opportunity*** 🇩🇪
 
-- 🌱 I’m currently learning ***Game/Software Developer and Web Development***
+- 🌱 I’m currently studying ***Software Development and Web Development***.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gustavo-Teleguario](https://github.com/Gustavo-Teleguario) or https://gitlab.com/users/Gustavo-Teleguario
 
-- 💬 Ask me about ***Unreal Engine, Unity, Java***
-
 - 📫 How to reach me ***Maynor_Teleguario@hotmail.com***
 
-- ⚡ Fun fact ***If life is short, doing what I am passionate about is an obligation***😃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
