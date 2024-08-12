@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Maynor Gustavo Teleguario Queche</h1>
-<h3 align="center">A passionate developer from Guatemala 🇬🇹</h3>
+<h3 align="center">A Junior Developer</h3>
 
 - 🔭 I’m currently working on ***To achieve new Challenges and ready for a new Job opportunity*** 🇩🇪
 
