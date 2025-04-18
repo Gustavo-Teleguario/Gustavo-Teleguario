@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Maynor Gustavo Teleguario Queche</h1>
-<h3 align="center">IT Specialist in Application Development | Passionate about software creation with 3 years of professional experience in Germany and strong interpersonal skills</h3>
+<h3 align="center">Application Developer | 3+ years experience in Germany | Tech innovator with strong people skills | Open to new opportunities</h3>
 
 ---
 
