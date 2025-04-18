@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hello, I'm Maynor Gustavo Teleguario Queche</h1>
 <h3 align="center">Fachinformatiker für Anwendungsentwicklung | Passionate Developer</h3>
+
+---
+
 ### 📬 Let's Connect
 I'm open to collaborations and new opportunities:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maynor-gustavo-teleguario-queche-b649ab1a8)
