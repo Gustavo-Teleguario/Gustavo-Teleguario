@@ -4,7 +4,7 @@
 
 ### 📬 Let's Connect
 I'm open to collaborations and new opportunities:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/maynor-gustavo-teleguario-queche-b649ab1a8/]))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maynor-gustavo-teleguario-queche-b649ab1a8)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Maynor_Teleguario@hotmail.com)
 
 
