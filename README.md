@@ -23,10 +23,8 @@ I'm a certified **Application Developer (Fachinformatiker für Anwendungsentwick
 - 💡 **Exploring** new technologies to solve real-world problems
 
 ---
-
 ### 🛠 Technical Toolbox
-*(You can add your skills here, for example:)*  
-`Java` `JavaScript` `HTML/CSS` `Spring Boot` `React` `Git` `SQL` `Docker` *(adjust as needed)*
+`Java` `C#` `React` `HTML/CSS` `SQL` `SAP` `Git` `Docker`
 
 ---
 
