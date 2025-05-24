@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Maynor Gustavo Teleguario Queche</h1>
-<h3 align="center">Software Developer | International experience | Problem-solver with strong social skills | 🌍 Trilingual: 🇩🇪 🇬🇧 🇪🇸 (native) | Open to new challenges</h3>
+<h3 align="center">Software Developer | International experience | Strong social skills | 🌍 Trilingual: 🇩🇪 🇬🇧 🇪🇸 (native) | Open to new challenges</h3>
 
 ---
 
