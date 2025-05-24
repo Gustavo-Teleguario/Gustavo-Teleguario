@@ -13,15 +13,21 @@ I'm open to collaborations and new opportunities:
 
 
 ### 🚀 About Me
-I'm a certified **Application Developer (Fachinformatiker für Anwendungsentwicklung)** with a strong focus on software and web development. Currently, I'm dedicated to honing my skills, expanding my knowledge, and taking on new challenges in the tech industry. My goal is to grow professionally while contributing to meaningful projects.
+Originally from Guatemala, I have consciously advanced my professional career in Germany. Over the past few years, I have gained extensive practical experience during my computer science studies as a working student—spanning areas such as IT support, IT management, software development, and SAP environments. My focus has not only been on technical aspects but also on actively collaborating with people, where I have successfully utilized my empathy, communication skills, and solution-oriented approach.
+
+What excites me most is software development. I have independently conceived and developed my own projects, which has allowed me to deepen my passion for this field. Currently, I am expanding my knowledge in developing with Microservices, RESTful Web Services (API), and both front-end and back-end development in Java.
+
+I am enthusiastic about continuous learning and am always looking for new challenges and opportunities to grow as a developer.
 
 ---
 
 ### 🔧 Current Focus
-- 🛠 **Sharpening my strengths** in software development best practices
-- 🚀 **Building motivation** to excel in backend/full-stack development
-- 🌱 **Learning** modern frameworks and architectures
-- 💡 **Exploring** new technologies to solve real-world problems
+
+    🛠 Enhancing my software development skills with a focus on best practices
+    🚀 Driven to excel in backend and full-stack development using Java
+    🌱 Expanding my knowledge in Microservices and RESTful Web Services (API)
+    💡 Passionate about exploring new technologies to create impactful solutions
+
 
 ---
 ### 🛠 Technical Toolbox
