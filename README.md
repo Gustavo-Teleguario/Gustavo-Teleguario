@@ -26,7 +26,7 @@ I am enthusiastic about continuous learning and am always looking for new challe
     🛠 Enhancing my software development skills with a focus on best practices
     🚀 Driven to excel in backend and full-stack development using Java
     🌱 Expanding my knowledge in Microservices and RESTful Web Services (API)
-    💡 Passionate about exploring new technologies to create impactful solutions
+    💡 Passionate about exploring new technologies 
 
 
 ---
