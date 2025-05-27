@@ -13,7 +13,7 @@ I'm open to collaborations and new opportunities:
 
 
 ### 🚀 About Me
-Originally from Guatemala, I have consciously advanced my professional career in Germany. Over the past few years, I have gained extensive practical experience during my computer science studies as a working student—spanning areas such as IT support, software development, and SAP environments. My focus has not only been on technical aspects but also on actively collaborating with people, where I have successfully utilized my empathy, communication skills, and solution-oriented approach.
+Originally from Guatemala, I have consciously advanced my professional career in Germany. Over the past few years, I have gained extensive practical experience during my computer science studies as a working student—spanning areas such as IT support, software development and SAP environments. My focus has not only been on technical aspects but also on actively collaborating with people, where I have successfully utilized my empathy, communication skills, and solution-oriented approach.
 
 What excites me most is software development. I have independently conceived and developed my own projects, which has allowed me to deepen my passion for this field. Currently, I am expanding my knowledge in developing with Microservices, RESTful Web Services (API), and both front-end and back-end development in Java.
 
